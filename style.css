@@ -277,6 +277,10 @@
   color: #0749fe;
   font-weight: bold;
 }
+
+a {
+  text-decoration: none;
+}
   
 section {
     margin-bottom: 20px;
